@@ -1,0 +1,2 @@
+# HistoryOnOurStreet
+History on the Street project tells the history of Nigeria through the great men and women our streets are named after.  Every street has a name and this name most times is the name of a notable man or woman in Nigeria.    The History on the Street project brings this history of these notable people direct to you as you navigate the streets of Nigeria through the Location-based Augmented Reality content.
