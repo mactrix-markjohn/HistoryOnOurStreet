@@ -1,0 +1,8 @@
+# Exported from 3D Builder
+
+newmtl Metallic_0
+Kd 0.384314 0.105882 0.643137
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd purmesh.jpg

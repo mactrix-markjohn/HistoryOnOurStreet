@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -584579194, guid: 322c8874b7f0401c8c1211fe39d44d90, type: 3}
+  m_Name: ARonMap Segment Style Settings
+  m_EditorClassIdentifier: 
+  Material: {fileID: 2100000, guid: 77ff6548017f55d458bfda170cfee54f, type: 2}
+  IntersectionMaterial: {fileID: 0}
+  IntersectionArmLength: 3.5
+  IntersectionJoinLength: 7
+  MaxIntersectionArmDistance: 20
+  Width: 7
+  BorderMaterial: {fileID: 2100000, guid: ed33cd1648333bc4c8b165d4f58c9bf6, type: 2}
+  BorderWidth: 2
